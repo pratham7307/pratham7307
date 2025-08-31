@@ -1,8 +1,8 @@
 <img src="masterhead.gif" alt="MasterHead" width="100%" />
 
-# 👋 Hello, I'm Pratham Rai
+# <h1 align="center">👋 Hello, I'm Pratham Rai</h1>
 
-🎯 Passionate Developer | Curious Learner | Tech Explorer
+<h3 align="center">🎯 Passionate Developer | Curious Learner | Tech Explorer</h3>
 
 ## 🚀 About Me
 - 🎓 Student at [GLA University]
